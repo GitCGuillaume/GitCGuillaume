@@ -1,5 +1,5 @@
 ### Mon introduction 👋
-Je suis étudiant à l'école [42](https://42.fr/) et je suis à la recherche d'un stage en [développement logiciel à modifier]
+Je suis étudiant à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-explique/) et je suis à la recherche d'un stage en [développement logiciel à modifier]
 
 ## 📄 Compétences  
 * Langages : C, C++
