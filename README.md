@@ -10,7 +10,7 @@ Je suis étudiant à l'école [42](https://42.fr/) et je suis à la recherche d'
 * Visual Studio Code
 * Vim
 * Git
-## Ma liste de projets
+## 💻 Ma liste de projets
 Pour avoir ma liste de projets, ça se passe ici : [Lien portefolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
 Je suis actuellement entrain de développer une commande ping basée sur le pack d'outils [inetutils](https://www.gnu.org/software/inetutils/).
 ## ✉️ Me Contacter
