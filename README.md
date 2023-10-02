@@ -15,7 +15,7 @@ Pour avoir ma liste de projets, ça se passe ici : [Lien portefolio](https://git
 Je suis actuellement entrain de développer une commande ping basée sur le pack d'outils [inetutils](https://www.gnu.org/software/inetutils/).
 ## ✉️ Me Contacter
 Email: guillaume2.chopin@orange.fr  
-Linkedin: lien
+Linkedin: [lien](https://www.linkedin.com/in/guillaume-chopin/)
 <!--
 **GitCGuillaume/GitCGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
