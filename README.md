@@ -12,7 +12,7 @@ Je suis étudiant à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-ex
 * Git
 ## 💻 Ma liste de projets
 Pour avoir ma liste de projets, ça se passe ici : [Lien portefolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
-Je suis actuellement entrain de développer une commande ping basée sur le pack d'outils [inetutils](https://www.gnu.org/software/inetutils/).
+Un premier projet pour me familiariser en assembleur est en attente de correction, je suis actuellement entrain de développer une commande ping basée sur le pack d'outils [inetutils](https://www.gnu.org/software/inetutils/).
 ## ✉️ Me Contacter
 Email: guillaume2.chopin@orange.fr  
 Linkedin: [lien](https://www.linkedin.com/in/guillaume-chopin/)
