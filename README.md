@@ -1,6 +1,6 @@
 ### Mon introduction 👋
 Je suis étudiant à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-explique/) et je suis à la recherche d'un stage en développement logiciel.  
-Je prépare actuellement un titre de niveau 7 "Expert en Architecture Informatique".
+Je prépare actuellement un certificat "Architecte en Technologie du Numérique" et un titre de niveau 7 "Expert en Architecture Informatique".
 
 ## 📄 Compétences  
 * Langages : C, C++
