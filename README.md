@@ -13,7 +13,7 @@ Je prépare actuellement un certificat "Architecte en Technologie du Numérique"
 * Git
 ## 💻 Ma liste de projets
 Pour avoir ma liste de projets, ça se passe ici : [Lien portefolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
-Un premier projet pour me familiariser en assembleur est en attente de correction, je suis actuellement entrain de développer une commande ping basée sur le pack d'outils [inetutils](https://www.gnu.org/software/inetutils/).
+Je suis actuellement entrain de créer ma propre distribution Linux [LFS](https://www.linuxfromscratch.org/lfs/)!
 ## ✉️ Me Contacter
 Email: guillaume2.chopin@orange.fr  
 Linkedin: [lien](https://www.linkedin.com/in/guillaume-chopin/)
