@@ -4,7 +4,7 @@ Je prépare actuellement un certificat "Architecte en Technologie du Numérique"
 
 ## 📄 Compétences  
 * Langages : C, C++
-* Web: Php, JavaScript, React, NestJs
+* Web: Php, JavaScript, React, NestJs, TypeScript
 * Base de données: SQL, PostgreSQL
 * Docker
 ## 🔨 Outils
