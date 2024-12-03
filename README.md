@@ -21,7 +21,7 @@ Je produis actuellement des projets de cybersécurité :
 Je vais aussi prochainement effectuer un projet de noyau pour système d'exploitation.
 ## ✉️ Me Contacter
 Email: guillaume2.chopin@orange.fr  
-Linkedin: [lien](https://www.linkedin.com/in/guillaume-chopin/)
+Linkedin: [Guillaume Chopin](https://www.linkedin.com/in/guillaume-chopin/)
 <!--
 **GitCGuillaume/GitCGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
