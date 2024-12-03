@@ -18,7 +18,7 @@ Je produis actuellement des projets de cybersécurité :
 * Un Image spider, pour permettre d'afficher les métadonnées et leurs données EXIF (données GPS...)
 * Un logiciel de mot de passe à usage unique.
 
-Je vais aussi prochainement effectuer programmer un noyau pour système d'exploitation.
+Je vais aussi prochainement programmer un noyau pour système d'exploitation.
 ## ✉️ Me Contacter
 Email: guillaume2.chopin@orange.fr  
 Linkedin: [Guillaume Chopin](https://www.linkedin.com/in/guillaume-chopin/)
