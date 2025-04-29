@@ -1,6 +1,5 @@
 ### Mon introduction 👋
-Je suis étudiant à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-explique/) et je suis à la recherche d'un stage en développement logiciel.  
-Je prépare actuellement un certificat "Architecte en Technologie du Numérique".
+Je suis Alumni à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-explique/) et également propriétaire d'un diplôme de Licence Professionnelle Système d'information et de communication sur internet et je suis à la recherche d'un emploi en développement informatique.  
 
 ## 📄 Compétences  
 * Langages : C, C++, Rust
@@ -14,11 +13,8 @@ Je prépare actuellement un certificat "Architecte en Technologie du Numérique"
 ## 💻 Ma liste de projets
 Pour avoir ma liste de projets, ça se passe ici : [Lien portefolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
 Je produis actuellement des projets de cybersécurité :
-* Du web scraping, un outil pour parcourir des sites afin de télécharger ses images.
-* Un Image spider, pour permettre d'afficher les métadonnées et leurs données EXIF (données GPS...)
-* Un logiciel de mot de passe à usage unique.
+* Vaccine : Effectue des injections SQL depuis une URL
 
-Je vais aussi prochainement programmer un noyau pour système d'exploitation.
 ## ✉️ Me Contacter
 Email: guillaume2.chopin@orange.fr  
 Linkedin: [Guillaume Chopin](https://www.linkedin.com/in/guillaume-chopin/)
