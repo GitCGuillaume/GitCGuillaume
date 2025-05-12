@@ -11,7 +11,7 @@ Je suis Alumni à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-expli
 * Vim
 * Git
 ## 💻 Ma liste de projets
-Pour avoir ma liste de projets, ça se passe ici : [Lien portefolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
+Pour avoir ma liste de projets, ça se passe ici : [Lien portfolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
 Je produis actuellement en projet de cybersécurité :
 * Vaccine : Effectue des injections SQL depuis une URL via des injections SQL Union et Booléen.
 
