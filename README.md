@@ -6,10 +6,14 @@ Je suis Alumni à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-expli
 * Web: Php, JavaScript, React, NestJs, TypeScript
 * Base de données: SQL, PostgreSQL
 * Docker
+* Vagrant
+* Argo CD
+
 ## 🔨 Outils
 * Visual Studio Code
 * Vim
 * Git
+
 ## 💻 Ma liste de projets
 Pour avoir ma liste de projets, ça se passe ici : [Lien portfolio](https://github.com/GitCGuillaume/Portfolio-Guillaume)  
 Je me forme actuellement à Vagrant et kubernetes, je produis également un projet de cybersécurité d'injections SQL depuis une URL via des injections SQL Union et Booléen.
