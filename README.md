@@ -2,7 +2,7 @@
 Je suis Alumni à l'école [42](https://42.fr/42-cest-quoi/le-programme-42-explique/) et également propriétaire d'un diplôme de Licence Professionnelle Système d'information et de communication sur internet et je suis à la recherche d'un emploi en développement informatique.  
 
 ## 📄 Compétences  
-* Langages: C, C++, Rust
+* Langages: C, C++, Rust, Python
 * Web: Php, JavaScript, React, NestJs, TypeScript
 * Base de données: SQL, PostgreSQL
 * Docker
